@@ -1,3 +1,5 @@
 | Opções Técnicas | Prós | Contras |
 | :---: | :---: | :---: |
-| Conteúdo | Conteúdo | Conteúdo |
+| Human-in-the-loop | Conteúdo | Conteúdo |
+| XAI | Conteúdo | Conteúdo |
+| Auditoria de Dados | Conteúdo | Conteúdo |
