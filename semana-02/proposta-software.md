@@ -1,4 +1,4 @@
-| Coluna 1 | Coluna 2 | Coluna 3 |
+| Opções Técnicas | Prós | Contras |
 | :--- | :---: | ---: |
-| Esquerda | Centro | Direita |
+| Centro | Centro | Centro |
 | Conteúdo | Conteúdo | Conteúdo |
