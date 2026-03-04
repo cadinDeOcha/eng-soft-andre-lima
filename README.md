@@ -19,6 +19,6 @@ Bem-vindo ao meu repositório! Aqui você encontrará todas as minhas entregas, 
 
 Clique nos links abaixo para acessar os arquivos de cada semana:
 
-- 📄 [Semana 01 - Fundamentos e Ética](./semana-01)
-- 📄 [Semana 02 - Modelos de Processo](./semana-02)
-- 📄 [Semana 03 - (Nome do tópico futuro) ](./semana-03)
+- 📄 [Semana 01](./semana-01)
+- 📄 [Semana 02](./semana-02)
+- 📄 [Semana 03](./semana-03)
