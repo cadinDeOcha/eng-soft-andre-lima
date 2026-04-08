@@ -22,3 +22,4 @@ Clique nos links abaixo para acessar os arquivos de cada semana:
 - 📄 [Semana 02](./semana-02)
 - 📄 [Semana 03](./semana-03)
 - 📄 [Semana 05](./semana-05)
+- 📄 [Semana 06](./semana-06)
