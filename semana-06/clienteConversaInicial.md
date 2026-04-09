@@ -1,6 +1,6 @@
 # Conversa entre cliente e desenvolvedor
 
-**André:** Olá! 😊
+**André:** Olá! 
 
 Muito prazer, meu nome é André e eu atuo como analista de sistemas. Estou aqui para entender melhor o seu negócio e ver como um software pode ajudar a resolver problemas do dia a dia. Pode ficar à vontade para explicar com suas próprias palavras — sem termos técnicos mesmo, combinado?
 Para começarmos, você pode me contar um pouco sobre:
@@ -147,7 +147,7 @@ No mais, esse "mapa" que você falou (US1) é o meu sonho. Se eu puder olhar par
 
 O que você acha? Dá para incluir essas diferenciações de quartos e garantir que os dados não sumam no ar?
 
-**André:** Fico muito feliz de ouvir isso — de verdade. E pode ficar tranquilo: o que o senhor trouxe agora são pontos essenciais, e dá sim pra resolver tudo de forma simples e segura 👍
+**André:** Fico muito feliz de ouvir isso — de verdade. E pode ficar tranquilo: o que o senhor trouxe agora são pontos essenciais, e dá sim pra resolver tudo de forma simples e segura 
 O senhor tocou em três coisas muito importantes:
 
 👉 diferença de preços
@@ -305,7 +305,7 @@ O senhor gostaria que esse sistema funcionasse só no computador da recepção o
 No futuro, o senhor teria interesse em permitir reservas pela internet, ou prefere manter o controle só por telefone mesmo?
 
 O senhor trabalha com pagamento antecipado (sinal)? Isso seria importante controlar também?
-Com essas respostas, eu consigo fechar esse levantamento redondinho — e aí já dá pra transformar isso em algo pronto pra desenvolvimento 🚀
+Com essas respostas, eu consigo fechar esse levantamento redondinho — e aí já dá pra transformar isso em algo pronto pra desenvolvimento 
 
 **Cliente:** André, agora você falou a minha língua! Esse "cofre digital" (US16) me deu uma paz de espírito que o senhor não faz ideia. Eu já perdi noites de sono pensando: "Meu Deus, se entra uma goteira em cima do meu caderno ou se o computador dá um estouro, eu não sei nem quem está vindo amanhã!". Sabendo que fica tudo guardado nesse cofre, eu fico bem mais tranquilo.
 
@@ -321,7 +321,7 @@ Ah, e uma dúvida que me veio agora... Você falou que a camareira pode marcar q
 
 O que você me diz? Se a gente acertar esses pontos, acho que o senhor já entendeu mais do meu hotel do que eu mesmo!
 
-**André:** Perfeito, agora sim estamos com uma visão bem completa do Hotel Bela Vista 👏
+**André:** Perfeito, agora sim estamos com uma visão bem completa do Hotel Bela Vista 
 E o senhor está certíssimo nas suas preocupações — isso é o que garante que o sistema realmente funcione no dia a dia, e não só “no papel”.
 Vou ajustar tudo com base no que o senhor falou e já respondo sua dúvida da camareira, que foi excelente.
 🧾 Histórias de Usuário (VERSÃO FINAL PARA VALIDAÇÃO)
@@ -448,7 +448,7 @@ Pode seguir com o seu trabalho aí com os seus professores. Se você me entregar
 
 O que você precisa de mim agora? É só esperar você montar o plano?
 
-**André:** Fico muito feliz com a sua confiança — de verdade! Dá gosto trabalhar assim, quando a gente consegue alinhar tudo direitinho com quem realmente entende do negócio 👏
+**André:** Fico muito feliz com a sua confiança — de verdade! Dá gosto trabalhar assim, quando a gente consegue alinhar tudo direitinho com quem realmente entende do negócio 
 E pode ficar tranquilo: com tudo o que o senhor validou, agora eu já tenho material completo para seguir para a próxima etapa.
 
 **Cliente:** Maravilha, André! Fico contente que nos entendemos. É difícil achar alguém que tenha paciência de escutar a gente sem querer complicar tudo.
@@ -458,3 +458,90 @@ Agora o senhor me deu até uma esperança de ver o **Bela Vista** moderno, mas c
 Não esqueça de caprichar naquele visual das cores para eu não precisar forçar a vista, viu? No mais, boa sorte aí com seus professores e com os seus estudos. Quando tiver o próximo passo, é só me chamar que eu estarei aqui.
 
 Fico no aguardo, meu filho! Um abraço.
+
+---
+
+# Histórias de usuário
+
+Como dono do hotel, quero ver um mapa visual dos quartos com cores (livre, ocupado, limpeza), para entender rapidamente a situação do hotel.
+Como recepcionista, quero cadastrar reservas com bloqueio automático de datas, para evitar conflitos.
+Como dono do hotel, quero ser avisado ao tentar reservar um quarto ocupado, para evitar overbooking.
+Como dono do hotel, quero cadastrar tipos de quartos com preços diferentes (simples, luxo, família), para cobrar corretamente.
+Como recepcionista, quero que o sistema calcule automaticamente a diária conforme o tipo de quarto, para evitar erros.
+Como recepcionista, quero registrar quando o cliente paga um sinal da reserva, para garantir a vaga corretamente.
+Como dono do hotel, quero ver claramente quais reservas já têm sinal pago e quais não têm, para evitar confusão.
+Como recepcionista, quero que o valor do sinal seja descontado automaticamente no checkout, para não cobrar o cliente duas vezes.
+Como recepcionista, quero cadastrar rapidamente os dados do hóspede, para agilizar o atendimento.
+Como dono do hotel, quero consultar histórico de hóspedes, para melhorar o atendimento.
+Como funcionário, quero registrar consumo no sistema, para não perder informações.
+Como dono do hotel, quero que o consumo fique vinculado ao quarto, para garantir cobrança correta.
+Como recepcionista, quero cálculo automático do total, para evitar erros.
+Como dono do hotel, quero finalizar rapidamente o atendimento, para evitar filas.
+Como dono do hotel, quero ver faturamento diário e mensal, para acompanhar o lucro.
+Como dono do hotel, quero relatórios simples, para entender o desempenho do hotel.
+Como dono do hotel, quero ver o status dos quartos (limpo, sujo, ocupado), para organizar melhor.
+Como camareira, quero marcar a limpeza do quarto usando um celular, para avisar a recepção sem precisar descer até o balcão.
+Como dono do hotel, quero que os dados fiquem salvos automaticamente em um local seguro, para não perder informações.
+Como dono do hotel, quero acessar o sistema pelo celular ou outro computador, para acompanhar o hotel de qualquer lugar.
+
+---
+
+# Requisitos (Funcionais e Não Funcionais)
+
+RF1 – O sistema deve exibir um mapa visual dos quartos com indicação de status (livre, ocupado, sujo, limpo).
+
+RF2 – O sistema deve permitir o cadastro de reservas informando datas e quarto.
+
+RF3 – O sistema deve bloquear automaticamente um quarto ao realizar uma reserva.
+
+RF4 – O sistema deve impedir reservas duplicadas para o mesmo quarto e período.
+
+RF5 – O sistema deve emitir alerta ao tentar reservar um quarto já ocupado.
+
+RF6 – O sistema deve permitir o cadastro de diferentes tipos de quartos (simples, luxo, família).
+
+RF7 – O sistema deve associar preços diferentes para cada tipo de quarto.
+
+RF8 – O sistema deve calcular automaticamente o valor da diária com base no tipo de quarto.
+
+RF9 – O sistema deve permitir o cadastro de hóspedes com dados como nome, CPF e telefone.
+
+RF10 – O sistema deve permitir a consulta ao histórico de hóspedes.
+
+RF11 – O sistema deve permitir o registro de consumos (produtos/serviços) associados a um quarto.
+
+RF12 – O sistema deve vincular automaticamente os consumos à conta do quarto.
+
+RF13 – O sistema deve calcular automaticamente o valor total da estadia (diárias + consumo).
+
+RF14 – O sistema deve permitir o fechamento da conta (checkout) de forma rápida.
+
+RF15 – O sistema deve permitir o registro de pagamento antecipado (sinal).
+
+RF16 – O sistema deve identificar visualmente quais reservas possuem sinal pago.
+
+RF17 – O sistema deve descontar automaticamente o valor do sinal no fechamento da conta.
+
+RF18 – O sistema deve permitir que a camareira atualize o status do quarto (ex: limpo).
+
+RF19 – O sistema deve disponibilizar acesso para atualização de status via dispositivo móvel (celular).
+
+RF20 – O sistema deve apresentar relatórios de faturamento diário.
+
+RF21 – O sistema deve apresentar relatórios de faturamento mensal.
+
+RF22 – O sistema deve apresentar relatórios de ocupação dos quartos.
+
+RNF1 – O sistema deve possuir interface simples e de fácil uso, adequada a usuários não técnicos.
+
+RNF2 – O sistema deve estar disponível tanto em computador quanto em dispositivos móveis (celular).
+
+RNF3 – O sistema deve armazenar os dados em ambiente seguro (backup automático).
+
+RNF4 – O sistema deve garantir que os dados não sejam perdidos em caso de falha do computador local.
+
+RNF5 – O sistema deve permitir acesso remoto aos dados (via internet).
+
+RNF6 – O sistema deve apresentar atualização em tempo real das informações (ex: status de quartos).
+
+RNF7 – O sistema deve garantir confiabilidade nas operações para evitar inconsistências (ex: overbooking).
