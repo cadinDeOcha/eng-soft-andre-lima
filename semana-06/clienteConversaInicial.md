@@ -163,131 +163,138 @@ O senhor tocou em três coisas muito importantes:
 Eu já atualizei as histórias incluindo isso, do jeito mais próximo possível da sua realidade. Dá uma olhada:
 🧾 Histórias de Usuário (VERSÃO ATUALIZADA)
 🏨 Reservas, Quartos e Preços
-US1
 
+US1
 Como dono do hotel,
 
 quero ver todos os quartos e suas datas ocupadas em uma tela simples (tipo um mapa com cores),
 
 para saber rapidamente o que está disponível.
-US2
 
+US2
 Como recepcionista,
 
 quero cadastrar uma reserva e o sistema bloquear automaticamente aquele quarto na data escolhida,
 
 para evitar reservas duplicadas.
-US3
 
+US3
 Como dono do hotel,
 
 quero ser avisado se tentar reservar um quarto já ocupado,
 
 para evitar overbooking.
-US13 (NOVO)
 
+US13 (NOVO)
 Como dono do hotel,
 
 quero cadastrar diferentes tipos de quartos (simples, luxo, família) com preços diferentes,
 
 para cobrar corretamente cada cliente.
-US14 (NOVO)
 
+US14 (NOVO)
 Como recepcionista,
 
 quero que o sistema calcule automaticamente o valor da diária com base no tipo de quarto,
 
 para evitar erros de cobrança.
-🧍 Hóspedes (Check-in e Cadastro)
-US4
 
+🧍 Hóspedes (Check-in e Cadastro)
+
+US4
 Como recepcionista,
 
 quero cadastrar rapidamente os dados do hóspede,
 
 para agilizar a entrada.
-US5
 
+US5
 Como dono do hotel,
 
 quero consultar o histórico de hóspedes,
 
 para melhorar o atendimento.
-🛎️ Consumo durante a Estadia
-US6
 
+🛎️ Consumo durante a Estadia
+
+US6
 Como funcionário,
 
 quero registrar o consumo diretamente no sistema,
 
 para não depender de papeizinhos.
-US7
 
+US7
 Como dono do hotel,
 
 quero que todo consumo fique vinculado ao quarto automaticamente,
 
 para não esquecer cobranças.
-💰 Fechamento (Checkout)
-US8
 
+💰 Fechamento (Checkout)
+
+US8
 Como recepcionista,
 
 quero que o sistema calcule automaticamente o total da estadia + consumo,
 
 para evitar erros.
-US9
 
+US9
 Como dono do hotel,
 
 quero finalizar a conta rapidamente,
 
 para evitar filas.
-📊 Controle Financeiro
-US10
 
+📊 Controle Financeiro
+
+US10
 Como dono do hotel,
 
 quero ver o faturamento diário e mensal,
 
 para entender o lucro.
-US11
 
+US11
 Como dono do hotel,
 
 quero relatórios simples de ocupação e ganhos,
 
 para tomar decisões melhores.
-🧹 Limpeza e Status dos Quartos
-US12
 
+🧹 Limpeza e Status dos Quartos
+
+US12
 Como dono do hotel,
 
 quero ver o status dos quartos (ocupado, livre, sujo, limpo),
 
 para organizar melhor as reservas.
-US15 (NOVO)
 
+US15 (NOVO)
 Como camareira,
 
 quero marcar no sistema quando terminar a limpeza de um quarto,
 
 para avisar automaticamente a recepção que ele está pronto.
-🔐 Segurança e Proteção dos Dados
-US16 (NOVO)
 
+🔐 Segurança e Proteção dos Dados
+
+US16 (NOVO)
 Como dono do hotel,
 
 quero que todos os dados fiquem salvos automaticamente em um local seguro (mesmo se o computador quebrar),
 
 para não correr o risco de perder informações.
-US17 (NOVO)
 
+US17 (NOVO)
 Como dono do hotel,
 
 quero poder acessar os dados de outro computador, se necessário,
 
 para garantir que o hotel continue funcionando em qualquer situação.
+
 💬 Sobre sua preocupação com “perder tudo”
 Essa foi uma excelente pergunta — e muito importante.
 Hoje existe uma forma de guardar os dados “na internet” (não precisa se preocupar com o nome técnico). Isso significa:
