@@ -43,90 +43,90 @@ Pelo que você me contou, eu já consegui entender bem as dores principais: evit
 Agora eu fiz um primeiro rascunho de como um sistema poderia te ajudar, escrevendo isso como histórias do dia a dia, do jeito que o senhor usa mesmo. Queria que o senhor desse uma olhada e me dissesse se faz sentido — se está faltando algo ou se algo não é bem assim.
 🧾 Histórias de Usuário (para validação)
 🏨 Reservas e Ocupação
-US1
 
+US1
 Como dono do hotel,
 
 quero ver todos os quartos e suas datas ocupadas em uma tela simples,
 
 para saber rapidamente o que está disponível sem precisar olhar caderno e planilha.
-US2
 
+US2
 Como recepcionista,
 
 quero cadastrar uma reserva e o sistema bloquear automaticamente aquele quarto na data escolhida,
 
 para evitar que duas pessoas reservem o mesmo quarto.
-US3
 
+US3
 Como dono do hotel,
 
 quero ser avisado se tentar fazer uma reserva em um quarto já ocupado,
 
 para evitar overbooking e situações constrangedoras.
+
 🧍 Hóspedes (Check-in e Cadastro)
 US4
-
 Como recepcionista,
 
 quero cadastrar rapidamente os dados do hóspede (nome, CPF, telefone),
 
 para agilizar a entrada e evitar filas.
-US5
 
+US5
 Como dono do hotel,
 
 quero consultar o histórico de um hóspede,
 
 para saber se ele já ficou aqui antes e como foi a estadia.
+
 🛎️ Consumo durante a Estadia
 US6
-
 Como funcionário,
 
 quero registrar no sistema o consumo do quarto (água, lanche, etc.),
 
 para não depender de papeizinhos que podem se perder.
-US7
 
+US7
 Como dono do hotel,
 
 quero que todo consumo fique automaticamente ligado ao quarto,
 
 para garantir que nada seja esquecido no fechamento da conta.
+
 💰 Fechamento de Conta (Checkout)
 US8
-
 Como recepcionista,
 
 quero que o sistema calcule automaticamente o valor total da estadia + consumo,
 
 para evitar erros na soma manual.
-US9
 
+US9
 Como dono do hotel,
 
 quero finalizar a estadia com poucos cliques,
 
 para diminuir filas e deixar o atendimento mais rápido.
+
 📊 Controle Financeiro
 US10
-
 Como dono do hotel,
 
 quero ver um resumo do faturamento (diário, mensal),
 
 para saber se estou tendo lucro sem precisar somar tudo manualmente.
-US11
 
+US11
 Como dono do hotel,
 
 quero ver relatórios simples de ocupação e ganhos,
 
 para entender quais períodos são mais movimentados.
+
 🧹 Operação do Hotel
 US12
-
 Como dono do hotel,
 
 quero saber quais quartos já foram limpos e estão prontos,
