@@ -326,100 +326,122 @@ E o senhor está certíssimo nas suas preocupações — isso é o que garante q
 Vou ajustar tudo com base no que o senhor falou e já respondo sua dúvida da camareira, que foi excelente.
 🧾 Histórias de Usuário (VERSÃO FINAL PARA VALIDAÇÃO)
 🏨 Reservas, Quartos e Preços
+
 US1
 Como dono do hotel,
 quero ver um mapa visual dos quartos com cores (livre, ocupado, limpeza),
 para entender rapidamente a situação do hotel.
+
 US2
 Como recepcionista,
 quero cadastrar reservas com bloqueio automático de datas,
 para evitar conflitos.
+
 US3
 Como dono do hotel,
 quero ser avisado ao tentar reservar um quarto ocupado,
 para evitar overbooking.
+
 US13
 Como dono do hotel,
 quero cadastrar tipos de quartos com preços diferentes (simples, luxo, família),
 para cobrar corretamente.
+
 US14
 Como recepcionista,
 quero que o sistema calcule automaticamente a diária conforme o tipo de quarto,
 para evitar erros.
+
 💳 Pagamento e Sinal
 US18 (NOVO)
 Como recepcionista,
 quero registrar quando o cliente paga um sinal da reserva,
 para garantir a vaga corretamente.
+
 US19 (NOVO)
 Como dono do hotel,
 quero ver claramente quais reservas já têm sinal pago e quais não têm,
 para evitar confusão.
+
 US20 (NOVO)
 Como recepcionista,
 quero que o valor do sinal seja descontado automaticamente no checkout,
 para não cobrar o cliente duas vezes.
+
 🧍 Hóspedes
 US4
 Como recepcionista,
 quero cadastrar rapidamente os dados do hóspede,
 para agilizar o atendimento.
+
 US5
 Como dono do hotel,
 quero consultar histórico de hóspedes,
 para melhorar o atendimento.
+
 🛎️ Consumo
 US6
 Como funcionário,
 quero registrar consumo no sistema,
 para não perder informações.
+
 US7
 Como dono do hotel,
 quero que o consumo fique vinculado ao quarto,
 para garantir cobrança correta.
+
 💰 Checkout
 US8
 Como recepcionista,
 quero cálculo automático do total,
 para evitar erros.
+
 US9
 Como dono do hotel,
 quero finalizar rapidamente o atendimento,
 para evitar filas.
+
 📊 Financeiro
 US10
 Como dono do hotel,
 quero ver faturamento diário e mensal,
 para acompanhar o lucro.
+
 US11
 Como dono do hotel,
 quero relatórios simples,
 para entender o desempenho do hotel.
+
 🧹 Limpeza (RESPOSTA À SUA DÚVIDA 👇)
 US12
 Como dono do hotel,
 quero ver o status dos quartos (limpo, sujo, ocupado),
 para organizar melhor.
+
 US15 (AJUSTADO)
 Como camareira,
 quero marcar a limpeza do quarto usando um celular,
 para avisar a recepção sem precisar descer até o balcão.
+
 👉 Sobre isso, a ideia é simples e prática:
 
 A camareira pode usar um celular (pode ser até o dela mesmo)
 Abre uma telinha simples com os quartos
 Toca no quarto → marca como “limpo”
 Na mesma hora, o senhor já vê lá no balcão.
-Nada de gritaria pelo corredor 😄
+Nada de gritaria pelo corredor
+
 🔐 Segurança e Acesso
 US16
 Como dono do hotel,
 quero que os dados fiquem salvos automaticamente em um local seguro,
 para não perder informações.
+
 US17
 Como dono do hotel,
 quero acessar o sistema pelo celular ou outro computador,
 para acompanhar o hotel de qualquer lugar.
+
 💡 O que isso significa na prática
 Com tudo isso funcionando, o senhor vai poder:
 
@@ -429,9 +451,10 @@ Nunca mais perder consumo
 Saber exatamente quanto ganhou no mês
 Acompanhar o hotel até de casa
 E não depender mais de papel, caderno ou memória
+
 🤝 Última validação (bem importante)
 Se o senhor me disser que está tudo certo aqui, eu já consigo transformar isso em:
-👉 requisitos organizados (do jeito que o professor pede)
+👉 requisitos organizados
 👉 e depois até um planejamento do sistema
 Só me confirme:
 Está tudo certo assim ou tem mais algum detalhe do seu dia a dia que o senhor quer incluir?
@@ -444,7 +467,7 @@ E sobre o **sinal** (US20), era exatamente isso: o sistema tem que ser esperto p
 
 Da minha parte, **está tudo certíssimo**. Você entendeu o espírito da coisa. Não quero nada complicado, com mil botões que eu não vou usar. Quero o meu hotel na palma da mão e a garantia de que, se o computador der um "estouro", minhas informações estão guardadas naquele seu "cofre digital".
 
-Pode seguir com o seu trabalho aí com os seus professores. Se você me entregar isso funcionando desse jeitinho, a gente fecha o negócio e eu vou ser o seu maior propagandista aqui na região! 
+Se você me entregar isso funcionando desse jeitinho, a gente fecha o negócio e eu vou ser o seu maior propagandista aqui na região! 
 
 O que você precisa de mim agora? É só esperar você montar o plano?
 
