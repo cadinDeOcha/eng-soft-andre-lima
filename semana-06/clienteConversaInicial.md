@@ -66,6 +66,7 @@ quero ser avisado se tentar fazer uma reserva em um quarto já ocupado,
 para evitar overbooking e situações constrangedoras.
 
 🧍 Hóspedes (Check-in e Cadastro)
+
 US4
 Como recepcionista,
 
@@ -81,6 +82,7 @@ quero consultar o histórico de um hóspede,
 para saber se ele já ficou aqui antes e como foi a estadia.
 
 🛎️ Consumo durante a Estadia
+
 US6
 Como funcionário,
 
@@ -96,6 +98,7 @@ quero que todo consumo fique automaticamente ligado ao quarto,
 para garantir que nada seja esquecido no fechamento da conta.
 
 💰 Fechamento de Conta (Checkout)
+
 US8
 Como recepcionista,
 
@@ -111,6 +114,7 @@ quero finalizar a estadia com poucos cliques,
 para diminuir filas e deixar o atendimento mais rápido.
 
 📊 Controle Financeiro
+
 US10
 Como dono do hotel,
 
@@ -126,6 +130,7 @@ quero ver relatórios simples de ocupação e ganhos,
 para entender quais períodos são mais movimentados.
 
 🧹 Operação do Hotel
+
 US12
 Como dono do hotel,
 
