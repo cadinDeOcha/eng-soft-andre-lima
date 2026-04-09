@@ -464,24 +464,43 @@ Fico no aguardo, meu filho! Um abraço.
 # Histórias de usuário
 
 Como dono do hotel, quero ver um mapa visual dos quartos com cores (livre, ocupado, limpeza), para entender rapidamente a situação do hotel.
+
 Como recepcionista, quero cadastrar reservas com bloqueio automático de datas, para evitar conflitos.
+
 Como dono do hotel, quero ser avisado ao tentar reservar um quarto ocupado, para evitar overbooking.
+
 Como dono do hotel, quero cadastrar tipos de quartos com preços diferentes (simples, luxo, família), para cobrar corretamente.
+
 Como recepcionista, quero que o sistema calcule automaticamente a diária conforme o tipo de quarto, para evitar erros.
+
 Como recepcionista, quero registrar quando o cliente paga um sinal da reserva, para garantir a vaga corretamente.
+
 Como dono do hotel, quero ver claramente quais reservas já têm sinal pago e quais não têm, para evitar confusão.
+
 Como recepcionista, quero que o valor do sinal seja descontado automaticamente no checkout, para não cobrar o cliente duas vezes.
+
 Como recepcionista, quero cadastrar rapidamente os dados do hóspede, para agilizar o atendimento.
+
 Como dono do hotel, quero consultar histórico de hóspedes, para melhorar o atendimento.
+
 Como funcionário, quero registrar consumo no sistema, para não perder informações.
+
 Como dono do hotel, quero que o consumo fique vinculado ao quarto, para garantir cobrança correta.
+
 Como recepcionista, quero cálculo automático do total, para evitar erros.
+
 Como dono do hotel, quero finalizar rapidamente o atendimento, para evitar filas.
+
 Como dono do hotel, quero ver faturamento diário e mensal, para acompanhar o lucro.
+
 Como dono do hotel, quero relatórios simples, para entender o desempenho do hotel.
+
 Como dono do hotel, quero ver o status dos quartos (limpo, sujo, ocupado), para organizar melhor.
+
 Como camareira, quero marcar a limpeza do quarto usando um celular, para avisar a recepção sem precisar descer até o balcão.
+
 Como dono do hotel, quero que os dados fiquem salvos automaticamente em um local seguro, para não perder informações.
+
 Como dono do hotel, quero acessar o sistema pelo celular ou outro computador, para acompanhar o hotel de qualquer lugar.
 
 ---
