@@ -111,6 +111,6 @@ O escopo do Sistema de Gestão Hotel Bela Vista inclui, mas não se limita às s
 
 ## Assinaturas
 
-**Dono do Projeto:** _______André Frigo Lima______
+**Dono do Projeto:** André Frigo Lima
 
-**Gerente de Projeto:** _______André Frigo Lima______
+**Gerente de Projeto:** André Frigo Lima
