@@ -97,11 +97,11 @@ O escopo do Sistema de Gestão Hotel Bela Vista inclui, mas não se limita às s
 
 | Tarefa | Data de Início | Data de Término |
 | :--- | :--- | :--- |
-| Levantamento de Requisitos | 16/04/2026 | 23/04/2026 |
-| Design e Prototipagem | 24/04/2026 | 08/05/2026 |
-| Desenvolvimento | 09/05/2026 | 20/06/2026 |
-| Testes | 21/06/2026 | 05/07/2026 |
-| Implantação | 06/07/2026 | 10/07/2026 |
+| Levantamento de Requisitos | 2/04/2026 | 16/04/2026 |
+| Design e Prototipagem |  |  |
+| Desenvolvimento |  |  |
+| Testes |  |  |
+| Implantação |  |  |
 
 ## Revisões
 
