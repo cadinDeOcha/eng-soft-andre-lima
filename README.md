@@ -26,3 +26,4 @@ Clique nos links abaixo para acessar os arquivos de cada semana:
 - 📄 [Semana 08](./semana-08)
 - 📄 [Semana 09](./semana-09)
 - 📄 [Semana 12](./semana-12)
+- 📄 [Semana 13](./semana-13)
